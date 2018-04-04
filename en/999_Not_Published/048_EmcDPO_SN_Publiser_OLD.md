@@ -28,7 +28,7 @@ You need to:
 
 1.  Download and install the latest version of the Emercoin wallet:
     (https://sourceforge.net/projects/emercoin/files or
-    <http://emercoin.com/#download> )
+    http://emercoin.com/#download )
 2.  Replenish the Emercoin wallet with a number of coins (you can read
     here how to do it - <http://emercoin.com/getstarted#getemercoin>)
 3.  Download and install SN Publisher

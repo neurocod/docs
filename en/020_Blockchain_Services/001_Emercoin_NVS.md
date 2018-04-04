@@ -47,7 +47,7 @@ ownership to another address. When a new pair is created, a new payment
 address for the pair is created in the local wallet.
 
 You can manage NVS entries either through the Emercoin [wallet
-GUI](http://emercoin.com#download), or via the
+GUI](http://emercoin.com/#download), or via the
 [emercoin-cli](../Running_Emercoin/Command_Line).
 
 Service abbreviations

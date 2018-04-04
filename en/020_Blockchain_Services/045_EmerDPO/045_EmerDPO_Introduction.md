@@ -32,7 +32,7 @@ More information
     counterfeiting using
     Blockchain](https://medium.com/@emer.tech/how-to-protect-your-products-against-counterfeiting-using-blockchain-78b4f5096324).
 3.  Study the [EmerDPO white
-    paper](http://emercoin.com/content/EmerDPO.pdf).
+    paper](https://emercoin.com/content/EMCDPO.pdf).
 4.  Learn about [SN-Publisher](EmerDPO_SN-Publisher), a utility for
     automating the insertion of EmerDPO serial numbers into the
     Emecoin blockchain.
