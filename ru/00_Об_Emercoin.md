@@ -2,10 +2,9 @@
 <br>
 
 
-Emercoin is a [blockchain](https://en.wikipedia.org/wiki/Blockchain) platform supporting a wide range of distributed trusted services. Distinctive features include high reliability, robustness and 3-in-one hybrid mining (PoW+MergedMining+PoS). Currently, the Emercoin platform already runs the network security services
-[EmerSSL](./Blockchain_Services/EmerSSL/EmerSSL_Introduction)/[EmerSSH](./Blockchain_Services/EmerSSH), decentralized
-domain system [EmerDNS](./Blockchain_Services/EmerDNS/EmerDNS_Introduction), an anti-counterfeit solution
-[EmerDPO](./Blockchain_Services/EmerDPO/EmerDPO_Introduction), VOIP solution [ENUMer](./Blockchain_Services/ENUMer), as well as several other [bundled blockchain services](./Blockchain_Services/Introduction_to_Emercoin_Services). At the heart of many of these innovations is the [Emercoin NVS](./Blockchain_Services/Emercoin_NVS) which allows for the arbitrary storage of **name-&gt;value** pairs on the blockchain.
+Эмеркоин - это a [блокчейн](https://ru.wikipedia.org/wiki/блокчейн)-платформа, поддерживающая широкий набор распределенных  доверенных служб. Отличительными особенностями являются высокая надежность, производительность и три вида майнинга (PoW+MergedMining+PoS). Сейчас на основе Эмеркоина уже работают следующие приложения: службы сетевой безопасности [EmerSSL](./Блокчейн-службы/EmerSSL/Введение_в_EmerSSL)/[EmerSSH](./Блокчейн-службы/EmerSSH), децентрализованная система доменных имен
+[EmerDNS](./Блокчейн-службы/EmerDNS/Введение_в_EmerDNS), система защиты от подделок 
+[EmerDPO](./Блокчейн-службы/EmerDPO/Введение_в_EmerDPO), VOIP sсвязь [ENUMer](./Блокчейн-службы/ENUMer), а также несколько [других служб](./Блокчейн-службы/Введение_в_сервисы_Emercoin). В основе этих инноваций лежит [Emercoin NVS](./Блокчейн-службы/Emercoin_NVS), которая предоставляет блокчейн-хранилище для произвольных пар **ключ-&gt;значение**.
 
-The official project website can be found at
+Официальныйм сайтом проекта является
 [emercoin.com](http://emercoin.com)
